@@ -14,8 +14,6 @@
 </p>
 
 <br />
-<br />
-
 ### About Me
 
 - 👨🏽‍💻 I'm a Full-stack Developer passionate about creating amazing web experiences.
