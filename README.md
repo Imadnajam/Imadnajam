@@ -45,7 +45,7 @@ A **WEB DEVELOPMENT** 🚀.
 
 
 
-  <img  alt="GIF" height="400px" width='300px'  src="https://i.pinimg.com/originals/a0/2d/2b/a02d2b3fc67d1ece9b2a751582e326d1.gif" />
+  <img  alt="GIF" height="300px" width='400px'  src="https://i.pinimg.com/originals/a0/2d/2b/a02d2b3fc67d1ece9b2a751582e326d1.gif" />
 
 
 
