@@ -5,7 +5,7 @@
 
 <h3 title="hehehe"> Hello World 👋, I'm Imad</h3>
 
-<a href="https://www.linkedin.com/in/imohammadd">
+<a href="">
   <img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="(https://www.instagram.com/najamimad/)">
@@ -45,7 +45,6 @@ A **WEB DEVELOPMENT** 🚀.
 
 
 
-  <img  alt="GIF" height="300px" width='400px'  src="https://i.pinimg.com/originals/a0/2d/2b/a02d2b3fc67d1ece9b2a751582e326d1.gif" />
 
 
 
