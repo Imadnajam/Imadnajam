@@ -5,7 +5,7 @@
 <h3 align='center' title="hehehe"> Hello World! 👋 I'm Imad</h3>
 
 <p align='center'>
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
+  <a href="https://ma.linkedin.com/in/imad-najam">
     <img align="center" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="YOUR_INSTAGRAM_PROFILE_URL">
