@@ -1,7 +1,7 @@
 
 
 
-  <img align='center' height="300px" width='400px'   alt="GIF" src="https://i.pinimg.com/originals/33/07/82/3307827a7dc797a99fa3d37780ae9b10.gif" />
+  <img align='right' height="300px" width='400px'   alt="GIF" src="https://i.pinimg.com/originals/33/07/82/3307827a7dc797a99fa3d37780ae9b10.gif" />
 
 <h3 title="hehehe"> Hello World 👋, I'm Imad</h3>
 
