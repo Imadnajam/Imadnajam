@@ -15,7 +15,7 @@
 <br />
 <br />
 
-A **WEB DEVELOPMENT** 🚀.
+A **full stack developer** 🚀.
  
   <br />
 <br />
