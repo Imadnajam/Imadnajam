@@ -1,4 +1,8 @@
 
+
+
+  <img align='center' height="300px" width='400px'   alt="GIF" src="https://i.pinimg.com/originals/33/07/82/3307827a7dc797a99fa3d37780ae9b10.gif" />
+
 <h3 title="hehehe"> Hello World 👋, I'm Imad</h3>
 
 <a href="https://www.linkedin.com/in/imohammadd">
@@ -13,10 +17,10 @@
 
 A **WEB DEVELOPMENT** 🚀.
  
-
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   <br />
 <br />
+
+
 
 **About Me!**
 
@@ -37,11 +41,11 @@ A **WEB DEVELOPMENT** 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br />
 <br />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=imohammadd&count_private=true&theme=radical" />
 
 
 
 
+  <img  alt="GIF" height="400px" width='300px'  src="https://i.pinimg.com/originals/a0/2d/2b/a02d2b3fc67d1ece9b2a751582e326d1.gif" />
 
 
 
