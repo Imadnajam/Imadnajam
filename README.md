@@ -22,8 +22,6 @@
 - 💬 Feel free to reach out to me; I love answering questions and helping others.
 - 📫 You can contact me at [imad00naj11@gmail.com](mailto:imad00naj11@gmail.com).
 
-
-//
 ## 💪🏻 Skills
 
 ### Code
@@ -90,5 +88,5 @@
 - 📫 How to reach me: [YOUR_EMAIL_ADDRESS](mailto:YOUR_EMAIL_ADDRESS).
 - 😄 Fun fact: [INSERT_FUN_FACT_HERE].
 
-Imad Najam 03/11/2022
+Imad Najam 15/11/2022
 -->
