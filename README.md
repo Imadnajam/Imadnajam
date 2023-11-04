@@ -1,6 +1,8 @@
-<p align='center'>
-  <img src="https://i.pinimg.com/originals/33/07/82/3307827a7dc797a99fa3d37780ae9b10.gif" alt="GIF" width="400px" height="300px" />
-</p>
+<div align="center">
+   <img src="https://i.pinimg.com/originals/ef/2f/f8/ef2ff869eb9a407751c594ab001f4a15.gif" alt="GIF" width="400px" height="300px" />
+ 
+</div>
+
 
 <h3 align='center' title="hehehe"> Hello World! 👋 I'm Imad</h3>
 
