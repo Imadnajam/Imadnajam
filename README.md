@@ -1,7 +1,4 @@
-<div align="center">
-     <img align="center" src="https://raw.githubusercontent.com/theMir8/theMir8/output/github-contribution-grid-snake.svg" />
 
-</div>
 
 
 <h3 align='center' title="hehehe"> Hello World! 👋 I'm Imad</h3>
@@ -23,7 +20,10 @@
 - 🤔 I'm deeply interested in front-end web development, including UI/UX design.
 - 💬 Feel free to reach out to me; I love answering questions and helping others.
 - 📫 You can contact me at [imad00naj11@gmail.com](mailto:imad00naj11@gmail.com).
+<div align="center">
+     <img align="center" src="https://raw.githubusercontent.com/theMir8/theMir8/output/github-contribution-grid-snake.svg" />
 
+</div>
 ## 💪🏻 Skills
 
 ### Code
