@@ -1,6 +1,5 @@
 <div align="center">
-   <img src="https://i.pinimg.com/originals/ef/2f/f8/ef2ff869eb9a407751c594ab001f4a15.gif" alt="GIF" width="400px" height="300px" />
- 
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
