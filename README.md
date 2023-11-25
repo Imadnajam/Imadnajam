@@ -24,8 +24,8 @@
 ## 💪🏻 Skills
 
 ### Code
-[![](https://img.shields.io/badge/Php-white?style=for-the-badge&logo=Php&logoColor=teal)](https://www.php.org/)
-[![](https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=Laravel&logoColor=red)](https://laravel.io/)
+[![](https://img.shields.io/badge/Php-white?style=for-the-badge&logo=Php&logoColor=teal)](https://www.php.net/)
+[![](https://img.shields.io/badge/Laravel-white?style=for-the-badge&logo=Laravel&logoColor=red)](https://laravel.com/)
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
