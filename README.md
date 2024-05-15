@@ -16,8 +16,7 @@
 #####  About Me
 
 - 👨🏽‍💻 I'm a Full-stack Developer passionate about creating amazing web experiences.
-- 🌱 My primary focus is on React for building beautiful and responsive front-end applications.
-- 🤔 I'm deeply interested in front-end web development, including UI/UX design.
+- 🌱 My primary focus is on TypeScript for building beautiful and responsive front-end applications.
 - 💬 Feel free to reach out to me; I love answering questions and helping others.
 - 📫 You can contact me at [imad00naj11@gmail.com](mailto:imad00naj11@gmail.com).
 
