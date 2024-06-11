@@ -40,6 +40,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
 [![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)](https://sass-lang.com/)
 [![](https://img.shields.io/badge/Stylus-333333?style=for-the-badge&logo=Stylus&logoColor=white)](https://stylus-lang.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
+
 
 ### Test
 
