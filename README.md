@@ -50,22 +50,26 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white)](https://jasmine.github.io/)
 
 ### Tools
+[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/)
+[![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=GitLab&logoColor=white)](https://about.gitlab.com/)
+[![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)](https://vercel.com/)
+[![](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=Railway&logoColor=white)](https://railway.app)
+[![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
 [![](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white)](https://storybook.js.org/)
-[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/)
-[![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=GitLab&logoColor=white)](https://about.gitlab.com/)
+[![](https://img.shields.io/badge/TinaCMS-302454?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI0IDI0Ij4KPHBhdGggZmlsbD0iI0VDNDgxNSIgZD0iTTE0LjQ2LDEwLjY2QzE1LjYzLDkuNywxNi4xNCw0LDE2LjY1LDEuOTVDMTcuMTUtMC4xLDE5LjI0LDAsMTkuMjQsMHMtMC41NCwwLjk0LTAuMzIsMS42NWMwLjIyLDAuNywxLjc0LDEuMzMsMS43NCwxLjMzCglsLTAuMzMsMC44NmMwLDAtMC42OC0wLjA5LTEuMDksMC43MmMtMC40MSwwLjgxLDAuMjYsOC44NSwwLjI2LDguODVzLTIuNDQsNC44MS0yLjQ0LDYuODRjMCwyLjAzLDAuOTYsMy43MywwLjk2LDMuNzNoLTEuMzUKCWMwLDAtMS45OC0yLjM2LTIuMzktMy41M2MtMC40MS0xLjE4LTAuMjQtMi4zNS0wLjI0LTIuMzVzLTIuMTUtMC4xMi00LjA2LDBjLTEuOTEsMC4xMi0zLjE4LDEuNzYtMy40MSwyLjY4CglDNi4zNCwyMS43MSw2LjI1LDI0LDYuMjUsMjRINS4xOGMtMC42NS0yLTEuMTctMi43Mi0wLjg5LTMuNzNjMC43OC0yLjgsMC42Mi00LjM5LDAuNDQtNS4xYy0wLjE4LTAuNzEtMS4zOS0xLjMzLTEuMzktMS4zMwoJYzAuNi0xLjIxLDEuMi0xLjgsMy44Mi0xLjg2QzkuNzcsMTEuOTIsMTMuMjksMTEuNjMsMTQuNDYsMTAuNjZMMTQuNDYsMTAuNjZ6Ii8+Cjwvc3ZnPgo=)](https://tina.io/)
+
 [![](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white)](https://bitbucket.org/)
 [![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira-Software&logoColor=white)](https://www.atlassian.com/software/jira)
 [![](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
-[![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)](https://vercel.com/)
-[![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+
+
 [![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
 [![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/)
 [![](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white)](https://framer.com/)
 [![](https://img.shields.io/badge/Sketch-fa6400?style=for-the-badge&logo=Sketch&logoColor=white)](https://www.sketch.com/)
 
-[![](https://img.shields.io/badge/TinaCMS-302454?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI0IDI0Ij4KPHBhdGggZmlsbD0iI0VDNDgxNSIgZD0iTTE0LjQ2LDEwLjY2QzE1LjYzLDkuNywxNi4xNCw0LDE2LjY1LDEuOTVDMTcuMTUtMC4xLDE5LjI0LDAsMTkuMjQsMHMtMC41NCwwLjk0LTAuMzIsMS42NWMwLjIyLDAuNywxLjc0LDEuMzMsMS43NCwxLjMzCglsLTAuMzMsMC44NmMwLDAtMC42OC0wLjA5LTEuMDksMC43MmMtMC40MSwwLjgxLDAuMjYsOC44NSwwLjI2LDguODVzLTIuNDQsNC44MS0yLjQ0LDYuODRjMCwyLjAzLDAuOTYsMy43MywwLjk2LDMuNzNoLTEuMzUKCWMwLDAtMS45OC0yLjM2LTIuMzktMy41M2MtMC40MS0xLjE4LTAuMjQtMi4zNS0wLjI0LTIuMzVzLTIuMTUtMC4xMi00LjA2LDBjLTEuOTEsMC4xMi0zLjE4LDEuNzYtMy40MSwyLjY4CglDNi4zNCwyMS43MSw2LjI1LDI0LDYuMjUsMjRINS4xOGMtMC42NS0yLTEuMTctMi43Mi0wLjg5LTMuNzNjMC43OC0yLjgsMC42Mi00LjM5LDAuNDQtNS4xYy0wLjE4LTAuNzEtMS4zOS0xLjMzLTEuMzktMS4zMwoJYzAuNi0xLjIxLDEuMi0xLjgsMy44Mi0xLjg2QzkuNzcsMTEuOTIsMTMuMjksMTEuNjMsMTQuNDYsMTAuNjZMMTQuNDYsMTAuNjZ6Ii8+Cjwvc3ZnPgo=)](https://tina.io/)
 
 
 <br />
