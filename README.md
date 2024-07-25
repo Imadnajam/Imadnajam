@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Imad NAJAM
 ============================================================================================================================================
 
-[![Imad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Imadnajam&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Imad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imadnajam&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align='center'>
