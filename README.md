@@ -1,7 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Imad NAJAM
-============================================================================================================================================
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Hi" width="30"/>
+  My name is Imad NAJAM
+</h1>
 
-[![Imad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imadnajam&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)]
+<p align="center">
+  <img src="https://github.com/Imadnajam/Imadnajam/blob/main/Cover.jpg" alt="Banner" />
+</p>
+
 
 <p align='center'>
   <a href="https://ma.linkedin.com/in/imad-najam">
