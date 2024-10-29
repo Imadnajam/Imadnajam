@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Imadnajam/Imadnajam/blob/main/cover2.png" alt="Banner" />
+  <img src="https://github.com/Imadnajam/Imadnajam/blob/main/cover3.png" alt="Banner" />
 </p>
 
 
