@@ -16,12 +16,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Imadnajam&label=Profile%20views&color=0e75b6&style=flat" alt="Imadnajam" /> </p>
 
-#####  About Me
+# 👾 Imad Najam
 
-- 👨🏽‍💻 I'm a Full-stack Developer passionate about creating amazing web experiences.
-- 🌱 My primary focus is on TypeScript for building beautiful and responsive front-end applications.
-- 💬 Feel free to reach out to me; I love answering questions and helping others.
-- 📫 You can contact me at [imad00naj11@gmail.com](mailto:imad00naj11@gmail.com).
+**Full stack  ⚡ | Tech’s ultimate rebel 🧩 | Founder of [Lara](https://l-r.vercel.app/)**
+
+Hey there! I'm Imad – turning wild ideas into powerful digital experiences. From business platforms to geolocation magic, I’m all about pushing boundaries and building tech that works for people, not the other way around. Code, create, repeat. Let’s shake things up! 🚀
+
+💻 [Portfolio](https://n-i.vercel.app/) | 🐙 [GitHub](https://github.com/Imadnajam) | 📫 imad.najam.j@gmail.com
 
 ## 💪🏻 Skills
 
