@@ -18,7 +18,7 @@
 
 # 👾 Imad Najam
 
-**Full stack  ⚡ | Tech’s ultimate rebel 🧩 **
+## Full stack  ⚡ | Tech’s ultimate rebel 🧩 
 
 Hey there! I'm Imad – turning wild ideas into powerful digital experiences. From business platforms to geolocation magic, I’m all about pushing boundaries and building tech that works for people, not the other way around. Code, create, repeat. Let’s shake things up! 🚀
 
