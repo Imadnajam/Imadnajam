@@ -26,10 +26,9 @@ Hey there! I'm **Imad** – turning wild ideas into powerful digital experiences
 
 💻 [**Portfolio**](https://n-i.vercel.app/) | 🐙 [**GitHub**](https://github.com/Imadnajam) | 📫 **imad.najam.j@gmail.com**
 
+<br>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1D&height=120&section=header"/>
-
-
-## 💪 Skills
 
 ### **Languages & Frameworks**
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
@@ -71,12 +70,6 @@ Hey there! I'm **Imad** – turning wild ideas into powerful digital experiences
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 
-
----
-
-**Let’s connect and build something extraordinary together!**
-
-<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1D&height=120&section=footer"/>
 
