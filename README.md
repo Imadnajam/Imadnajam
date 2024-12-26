@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://github.com/Imadnajam/Imadnajam/blob/main/cover3.png" alt="Banner" />
 </p>
@@ -15,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=Imadnajam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-# Imad Najam
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D9DFC6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Imad+NAJAM;I'm+a+Full-Stack+Developer;I'm+passionate+about+Tech+and+Innovation;Welcome+to+my+Profile!+:%29)](https://git.io/typing-svg)
 
 ## Full-Stack ⚡ | Tech’s Ultimate Rebel 🧩 
 
@@ -25,7 +26,8 @@ Hey there! I'm **Imad** – turning wild ideas into powerful digital experiences
 
 💻 [**Portfolio**](https://n-i.vercel.app/) | 🐙 [**GitHub**](https://github.com/Imadnajam) | 📫 **imad.najam.j@gmail.com**
 
----
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1D&height=120&section=header"/>
+
 
 ## 💪 Skills
 
@@ -53,6 +55,8 @@ Hey there! I'm **Imad** – turning wild ideas into powerful digital experiences
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
 
+
+
 ### **Testing**
 [![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 [![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)](https://jasmine.github.io/)
@@ -66,6 +70,13 @@ Hey there! I'm **Imad** – turning wild ideas into powerful digital experiences
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
+
+
 ---
 
 **Let’s connect and build something extraordinary together!**
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1D&height=120&section=footer"/>
+
