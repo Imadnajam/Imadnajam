@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Imadnajam/Imadnajam/blob/main/cover3.png" alt="Banner" />
+  <img src="https://github.com/Imadnajam/Imadnajam/blob/main/Brethrenflag.png" alt="Banner" />
 </p>
 
 <p align="center">
@@ -12,9 +12,6 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Imadnajam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D9DFC6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Imad+NAJAM;I'm+a+Full-Stack+Developer;I'm+passionate+about+Tech+and+Innovation;Welcome+to+my+Profile!+:%29)](https://git.io/typing-svg)
 
