@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://github.com/Imadnajam/Imadnajam/blob/main/Brethrenflag.png" alt="Banner" />
 </p>
@@ -12,12 +11,18 @@
   </a>
 </p>
 
+<h2 align="center">⚡ Full-Stack Developer | Tech's Ultimate Rebel 🧩</h2>
 
+<div align="center">
+  <p><strong>Hey there! I'm Imad</strong> – turning wild ideas into powerful digital experiences.</p>
+  <p>From business platforms to geolocation magic, I'm all about pushing boundaries and building tech that works for people, not the other way around.</p>
+  <p><em><strong>Code, create, repeat. Let's shake things up! 🚀</strong></em></p>
+</div>
 
-## Full-Stack ⚡ | Tech’s Ultimate Rebel 🧩 
-
-Hey there! I'm **Imad** – turning wild ideas into powerful digital experiences. From business platforms to geolocation magic, I’m all about pushing boundaries and building tech that works for people, not the other way around.  
-
-**Code, create, repeat. Let’s shake things up! 🚀**
-
-💻 [**Portfolio**](https://n-i.vercel.app/) | 🐙 [**GitHub**](https://github.com/Imadnajam) | 📫 **imad.najam.j@gmail.com**
+<div align="center">
+  <p>
+    💻 <a href="https://n-i.vercel.app/"><strong>Portfolio</strong></a> | 
+    🐙 <a href="https://github.com/Imadnajam"><strong>GitHub</strong></a> | 
+    📫 <strong>imad.najam.j@gmail.com</strong>
+  </p>
+</div>
