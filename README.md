@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="https://github.com/Imadnajam/Imadnajam/blob/main/Brethrenflag.png" alt="Banner" />
-</p>
 
+
+
+
+<h2 align="center">⚡ Full-Stack Developer | Tech's Ultimate Rebel 🧩</h2>
 <p align="center">
   <a href="https://ma.linkedin.com/in/imad-najam">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -10,9 +11,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
-
-<h2 align="center">⚡ Full-Stack Developer | Tech's Ultimate Rebel 🧩</h2>
-
 <div align="center">
   <p><strong>Hey there! I'm Imad</strong> – turning wild ideas into powerful digital experiences.</p>
   <p>From business platforms to geolocation magic, I'm all about pushing boundaries and building tech that works for people, not the other way around.</p>
@@ -27,11 +25,6 @@
   </p>
 </div>
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="/github-metrics.svg" width="100%" alt="GitHub Metrics">
-</p>
 
 ### 🔥 Contribution Streak
 
@@ -43,11 +36,8 @@
 
 <p align="center">
   <img src="/github-metrics.svg#achievements" width="49%" alt="GitHub Achievements">
-  <img src="/github-metrics.svg#languages" width="49%" alt="Top Languages">
-</p>
-
-### 🚀 Quick Stats
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imadnajam&theme=github_dark" alt="Profile Summary">
+
+
 </p>
+
