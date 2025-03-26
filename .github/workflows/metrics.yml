@@ -1,12 +1,16 @@
-name: Metrics
+name: Full-year GitHub Metrics
 on:
-  schedule: 
+  schedule:
     - cron: "0 0 * * *"  
-  workflow_dispatch:
+  workflow_dispatch:  
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
