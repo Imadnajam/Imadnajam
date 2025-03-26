@@ -26,3 +26,28 @@
     📫 <strong>imad.najam.j@gmail.com</strong>
   </p>
 </div>
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="/github-metrics.svg" width="100%" alt="GitHub Metrics">
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imadnajam&theme=dark" alt="GitHub Streak">
+</p>
+
+### 🏆 Achievements & Languages
+
+<p align="center">
+  <img src="/github-metrics.svg#achievements" width="49%" alt="GitHub Achievements">
+  <img src="/github-metrics.svg#languages" width="49%" alt="Top Languages">
+</p>
+
+### 🚀 Quick Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imadnajam&theme=github_dark" alt="Profile Summary">
+</p>
