@@ -1,8 +1,8 @@
-name: Full-year GitHub Metrics
+name: Metrics
 on:
   schedule:
-    - cron: "0 0 * * *"  
-  workflow_dispatch:  
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -12,5 +12,34 @@ jobs:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          config_timezone: Africa/Casablanca
+          output_action: commit
+          committer_branch: main
+          committer_message: Update metrics
+          
+          # Full-year calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          
+          # Additional cool plugins
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          
+          # Language usage
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          
+          # Repositories
+          plugin_repositories: yes
+          plugin_repositories_featured: Imadnajam/Imadnajam
+          
+          # Wakatime integration
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          
+          # Stackoverflow integration
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 22722206
+          plugin_stackoverflow_sections: answers-top
+          plugin_stackoverflow_limit: 2
