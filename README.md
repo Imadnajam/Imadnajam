@@ -49,7 +49,6 @@
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
     </p>
-    
     <h3>Backend</h3>
     <p>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
@@ -57,7 +56,6 @@
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
     </p>
-    
     <h3>Tools & Others</h3>
     <p>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -68,21 +66,6 @@
   </div>
 </details>
 
-<details>
-  <summary><h2>🏆 GitHub Achievements</h2></summary>
-  <p align="center">
-    <img src="/github-metrics.svg#achievements" width="70%" alt="GitHub Achievements">
-  </p>
-</details>
-
-<details>
-  <summary><h2>📈 GitHub Activity</h2></summary>
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imadnajam&theme=github_dark" width="100%" alt="Profile Summary">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imadnajam&layout=compact&theme=github_dark&hide_border=true" width="49%" alt="Top Languages">
-    <img src="https://github-readme-stats.vercel.app/api?username=Imadnajam&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%" alt="GitHub Stats">
-  </div>
-</details>
 
 <hr>
 
@@ -98,7 +81,7 @@
     <a href="https://github.com/Imadnajam?tab=repositories&q=&type=&language=&sort=stargazers">
       <img src="https://img.shields.io/github/stars/Imadnajam?style=social" alt="GitHub stars">
     </a>
-  </p>
+  </p><
 </div>
 
 <!--
