@@ -1,8 +1,9 @@
-name: Metrics
+name: GitHub Metrics
+
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs at midnight every day
-  workflow_dispatch:  # Allows manual triggering
+    - cron: "0 0 */2 * *"  
+  workflow_dispatch:  
 
 jobs:
   github-metrics:
@@ -10,54 +11,28 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Basic configuration
+          # Core configuration
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: header, activity, community, repositories
           config_timezone: Africa/Casablanca
-          output_action: commit
           committer_branch: main
-          committer_message: "Update metrics"
-          
-          # Core metrics - Full-year calendar with detailed activity
+          committer_message: "chore: update GitHub metrics"
+        
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
           
-          # Developer story plugins with enhanced visibility
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_threshold: C  # Show more achievements
-          
-          # Code metrics with expanded details
           plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage, lines, history
           plugin_languages_limit: 8
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
           plugin_languages_colors: github
+          plugin_languages_details: percentage
           
-          # Featured repositories with personalized selection
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
+          
+ 
           plugin_repositories: yes
           plugin_repositories_featured: Imadnajam/Imadnajam
           
-          # Coding activity tracking
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, languages, editors, os
-          plugin_wakatime_limit: 5
-          
-          # Community engagement
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 22722206
-          plugin_stackoverflow_sections: answers-top, questions-recent
-          plugin_stackoverflow_limit: 2
-          
-          # Additional engaging metrics
-          plugin_skyline: yes
-          plugin_skyline_year: current-year
-          plugin_skyline_frames: 60
-          
-          # Show your tech stack
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons
