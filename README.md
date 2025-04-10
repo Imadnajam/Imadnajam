@@ -1,5 +1,7 @@
+
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Imad+Najam;Full-Stack+Developer;Tech+Innovator" alt="Typing SVG" />
+  <img src="https://github.com/Imadnajam/Imadnajam/blob/main/header.svg" alt="Developer Banner" width="100%">
 </div>
 
 <div align="center">
