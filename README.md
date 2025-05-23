@@ -20,7 +20,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Imadnajam&show_icons=true&hide_border=true&count_private=true&theme=default&bg_color=00000000&hide_title=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Imadnajam&hide_border=true&background=00000000&currStreakNum=475569&sideNums=475569&currStreakLabel=475569&sideLabels=475569&dates=94A3B8" width="49%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Imadnajam&hide_border=true&background=00000000&currStreakNum=475569&theme=tokyonight&hide_border=true"&sideNums=475569&currStreakLabel=475569&sideLabels=475569&dates=94A3B8" width="49%" alt="GitHub Streak" />
+
+  
+
 </div>
 
 
