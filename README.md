@@ -38,5 +38,6 @@
 <div align="center">
   <br>
   <img src="https://komarev.com/ghpvc/?username=Imadnajam&style=flat-square&color=3B82F6" alt="Profile views" />
-  <h4>Let's connect and build something amazing together</h4>
+  <h4>Always happy to chat about interesting problems. Reach out if you want to build something together.
+</h4>
 </div>
