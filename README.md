@@ -1,5 +1,4 @@
 
-<!-- Header Banner -->
 <div align="center">
   <img src="https://github.com/Imadnajam/Imadnajam/blob/main/header.svg" alt="Developer Banner" width="100%">
 </div>
