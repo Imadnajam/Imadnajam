@@ -39,8 +39,8 @@
 					-webkit-text-stroke: 0.5px white;
 				}
 				.text {
-					background: -webkit-linear-gradient(right,#57B4BA,#FE4F2D);
-				  background: linear-gradient(270deg,#FFEB00 0,#4379F2);
+					background: -webkit-linear-gradient(right,#021A54,#FE4F2D);
+				  background: linear-gradient(270deg,#28396C 0,#EAE6BC);
 				  background-size: 350%;
 				  background-clip: text;
 				  -webkit-background-clip: text;
