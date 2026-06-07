@@ -1,25 +1,4 @@
 
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    ██╗███╗   ███╗ █████╗ ██████╗     ███╗   ██╗             ║
-║    ██║████╗ ████║██╔══██╗██╔══██╗    ████╗  ██║             ║
-║    ██║██╔████╔██║███████║██║  ██║    ██╔██╗ ██║             ║
-║    ██║██║╚██╔╝██║██╔══██║██║  ██║    ██║╚██╗██║             ║
-║    ██║██║ ╚═╝ ██║██║  ██║██████╔╝    ██║ ╚████║             ║
-║    ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝     ╚═╝  ╚═══╝             ║
-║                                                              ║
-║              FULL-STACK ENGINEER                ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=5DCAA5&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+scalable+systems+that+matter.;Clean+code.+Sharp+UX.+Zero+compromise.;Open+to+collaborate+%E2%86%92+Let%27s+build+something." alt="Typing SVG" />
-
-</div>
-
 ---
 
 <table width="100%">
